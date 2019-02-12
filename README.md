@@ -26,3 +26,5 @@ Usage:
 Note: You must have usb2snescore.dll in this directory.
 
 5.) Enjoy. :)
+
+https://www.twitch.tv/eatitup_86
