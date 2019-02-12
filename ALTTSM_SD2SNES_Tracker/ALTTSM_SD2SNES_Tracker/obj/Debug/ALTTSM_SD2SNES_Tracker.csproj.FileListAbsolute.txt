@@ -1,0 +1,11 @@
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\obj\Debug\ALTTSM_SD2SNES_Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\obj\Debug\ALTTSM_SD2SNES_Tracker.Form1.resources
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\obj\Debug\ALTTSM_SD2SNES_Tracker.Properties.Resources.resources
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\obj\Debug\ALTTSM_SD2SNES_Tracker.csproj.GenerateResource.Cache
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\obj\Debug\ALTTSM_SD2SNES_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\bin\Debug\ALTTSM_SD2SNES_Tracker.exe.config
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\bin\Debug\ALTTSM_SD2SNES_Tracker.exe
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\bin\Debug\ALTTSM_SD2SNES_Tracker.pdb
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\bin\Debug\usb2snescore.dll
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\obj\Debug\ALTTSM_SD2SNES_Tracker.exe
+C:\Users\Eatitup86\source\repos\ALTTSM_SD2SNES_Tracker\ALTTSM_SD2SNES_Tracker\obj\Debug\ALTTSM_SD2SNES_Tracker.pdb
