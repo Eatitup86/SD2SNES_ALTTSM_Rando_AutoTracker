@@ -59,5 +59,15 @@ namespace ALTTSM_SD2SNES_Tracker.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] usb2snescore {
+            get {
+                object obj = ResourceManager.GetObject("usb2snescore", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
     }
 }
